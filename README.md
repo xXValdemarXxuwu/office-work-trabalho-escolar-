@@ -3,6 +3,7 @@ Um jogo visual novel onde você é um funcionario trabalhando em uma empresa com
 
 **coisas usadas como de inspiração**
 
+
 -Sucker for love= inspiração narrativa
 
 -Limbus Company= inspiração narrativa
@@ -15,6 +16,7 @@ Um jogo visual novel onde você é um funcionario trabalhando em uma empresa com
 
 **colaboradores**
 
+
 1.jessica_me_carvalho@estudante.sesisenai.org.br
 
 2.arthur_krieger@estudante.sesisenai.org.br
@@ -23,4 +25,5 @@ Um jogo visual novel onde você é um funcionario trabalhando em uma empresa com
 
 **Processo**
 
-Usamos o programa Krita para fazer as ilustrações, ja á programação, utilizamos o visual studio code em linguagem python, utilizando ajuda do Ren'py
+
+Usamos o programa Krita para fazer os sprites e cenarios, ja á programação, utilizamos o visual studio code em linguagem python, utilizando ajuda do Ren'py

@@ -4,15 +4,21 @@ Um jogo visual novel onde você é um funcionario trabalhando em uma empresa com
 **coisas usadas como de inspiração**
 
 -Sucker for love= inspiração narrativa
+
 -Limbus Company= inspiração narrativa
+
 -Class of 09= inspiração técnica
+
 -Zom100= inspiração narrativa
+
 -Hades= inspiração artistica
 
 **colaboradores**
 
 1.jessica_me_carvalho@estudante.sesisenai.org.br
+
 2.arthur_krieger@estudante.sesisenai.org.br
+
 3.davi_passos@estudante.sesisenai.org.br
 
 **Processo**

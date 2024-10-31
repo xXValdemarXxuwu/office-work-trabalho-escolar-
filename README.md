@@ -26,4 +26,4 @@ Um jogo visual novel onde você é um funcionario trabalhando em uma empresa com
 **Processo**
 
 
-Usamos o programa Krita para fazer os sprites e cenarios, ja á programação, utilizamos o visual studio code em linguagem python, utilizando ajuda do Ren'py
+Usamos o programa Krita para fazer os sprites e cenarios, ja á programação, utilizamos o visual studio code em linguagem pygame, utilizando ajuda do Ren'py

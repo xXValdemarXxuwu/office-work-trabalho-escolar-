@@ -1,6 +1,11 @@
 # office-work-trabalho-escolar-
 Um jogo visual novel onde você é um funcionario trabalhando em uma empresa com práticas duvidosas, pórem, um dia, um parasita começa a se alimentar de sua energia vital, você tem apenas 6 dias até que você morra
 
+
+Baixe o aplicativo ren'py no site do mesmo nome
+Baixe o jogo nomeado office work extraia o arquivo 
+Abre o aplicativo ren'py e aperte no criar novo projeto, coloque a pasta do jogo e pronto voçê já pode jogar
+
 **coisas usadas como de inspiração**
 
 
